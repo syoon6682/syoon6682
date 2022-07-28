@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+There is my portfolio! 
+https://www.notion.so/Syoon-s-Profile-23ab9cad3c864ae8b2d11aa870ee073a
+
 <!--
 **syoon6682/syoon6682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
