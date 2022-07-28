@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-There is my portfolio! 
+Here is my portfolio! 
 https://www.notion.so/Syoon-s-Profile-23ab9cad3c864ae8b2d11aa870ee073a
 
 <!--
