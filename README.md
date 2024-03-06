@@ -37,7 +37,7 @@
 > Industrial Bank Of Korea Digital Intern (2024.01 ~ 2024.02) <br>
 > KB IT`s Your Life (2023.07 ~ 2023.09) <br>
 > Naver Boostcamp AI Tech (2022.09 ~ 2023.02) <br>
-> Samsung Software Academy For Youth(SSAFY)(2022.01 ~ 2022.12) <br>
+> Samsung Software Academy For Youth(SSAFY) (2022.01 ~ 2022.12) <br>
 > Algorithm Labs AI consultant inturn (2021.06 ~ 2021.12) <br>
 > Hanyang University Industrial Engineering (2015.03 ~ 2022.02) 
 
