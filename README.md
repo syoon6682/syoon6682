@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:100784,100:04B6EC&height=250&section=header&text=Seongyoon%20Jeong&fontSize=70&fontColor=FFFFFF)
 
 ## 👋 About me
-> 🙋🏻‍♀️ Hi! I\`m Seungyoon who is interested in `efficiency`  and `effectiveness`.
-Basically, I\`m pursuing my career as a `Back-End` developer.
-However, I have deep insight and interest in `AI`, especially `ML, DL(Vision)`.
-If you want to get to know me more, make contact!
+> 🙋🏻‍♀️ Hi! I\`m Seungyoon who is interested in `efficiency`  and `effectiveness`. <br>
+> Basically, I\`m pursuing my career as a `Back-End` developer. <br>
+> However, I have deep insight and interest in `AI`, especially `ML, DL(Vision)`. <br>
+> If you want to get to know me more, make contact!
 
 <br>
 
