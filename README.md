@@ -2,9 +2,9 @@
 
 ## 👋 About me
 > 🙋🏻‍♀️ Hi! I\`m Seungyoon who is interested in `efficiency`  and `effectiveness`.
-> Basically, I\`m pursuing my career as a `Back-End` developer.
-> However, I have deep insight and interest in `AI`, especially `ML, DL(Vision)`.
->  If you want to get to know me more, make contact!
+Basically, I\`m pursuing my career as a `Back-End` developer.
+However, I have deep insight and interest in `AI`, especially `ML, DL(Vision)`.
+If you want to get to know me more, make contact!
 
 <br>
 
